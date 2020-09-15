@@ -3,7 +3,7 @@ Simple url shorterner service.
 
 ## Installing the project
 
-First clone the project then navigate into the project directory and run the following commmands.
+First clone the project then navigate into the project directory and run the following commands.
 
 ### Install Packages
 `
